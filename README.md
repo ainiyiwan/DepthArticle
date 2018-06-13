@@ -18,3 +18,5 @@
 - [Android 消息机制——你真的了解Handler？](https://blog.csdn.net/qian520ao/article/details/78262289)
 ## 彻底理解Android Binder通信架构
 - [彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
+## Android Launcher 启动 Activity 的工作过程
+- [Android Launcher 启动 Activity 的工作过程](https://blog.csdn.net/qian520ao/article/details/78156214)
