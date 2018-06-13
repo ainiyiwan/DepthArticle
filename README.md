@@ -16,3 +16,5 @@
 - [Android学习路线指南](https://blog.csdn.net/singwhatiwanna/article/details/49560409)
 ## Android 消息机制——你真的了解Handler？
 - [Android 消息机制——你真的了解Handler？](https://blog.csdn.net/qian520ao/article/details/78262289)
+## 彻底理解Android Binder通信架构
+- [彻底理解Android Binder通信架构](http://gityuan.com/2016/09/04/binder-start-service/)
