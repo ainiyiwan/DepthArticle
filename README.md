@@ -10,3 +10,9 @@
 - [Android性能优化 胡凯](http://hukai.me/blog/categories/android-performance/)
 ## 全面了解Android Notification
 - [全面了解Android Notification](https://www.jianshu.com/p/22e27a639787)
+## Android aidl Binder框架浅析
+- [Android aidl Binder框架浅析](https://blog.csdn.net/lmj623565791/article/details/38461079/)
+## Android学习路线指南
+- [Android学习路线指南](https://blog.csdn.net/singwhatiwanna/article/details/49560409)
+## Android 消息机制——你真的了解Handler？
+- [Android 消息机制——你真的了解Handler？](https://blog.csdn.net/qian520ao/article/details/78262289)
