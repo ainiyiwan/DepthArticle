@@ -22,3 +22,5 @@
 - [Android Launcher 启动 Activity 的工作过程](https://blog.csdn.net/qian520ao/article/details/78156214)
 ## ConstraintLayout 完全解析
 - [ConstraintLayout 完全解析](https://blog.csdn.net/lmj623565791/article/details/78011599)
+## Linus，一生只为寻找欢笑
+- [Linus，一生只为寻找欢笑](https://zhuanlan.zhihu.com/p/19796979)
